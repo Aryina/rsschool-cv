@@ -9,3 +9,7 @@
 * HTML
 * CSS 
 * JavaScript
+## Education and courses:
+* CS50 video course
+* JS, CSS, HTML BSU Institute of Business
+* JavaScript https://learn.javascript.ru/
