@@ -5,3 +5,7 @@
 * GitHub: Aryina
 ## About Me
 ###### I am 41 years old. I study HTML, CSS, JS.
+## Skills
+* HTML
+* CSS 
+* JavaScript
