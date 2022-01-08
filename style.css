@@ -33,6 +33,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin: 0 40px 0 40px;
   }
   .section {
     width: 50%;
@@ -88,8 +89,6 @@
 html {
     scroll-behavior: smooth; 
   }
-
-
   .link {
     text-decoration: none;
     color: #829985;
@@ -117,7 +116,6 @@ html {
     padding-bottom: 35px;
     border-bottom: 1px solid #672f2f;
   }
-  
   .section-contacts,
   .section-english {
     border-bottom: 0;
@@ -137,13 +135,14 @@ html {
     padding: 0;
     margin: 0;
   } 
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 20px 0 20px;
+    color: #fff;
+  }
 
-.rss {
-    width: 121px;
-    height: 45px;
-    background-image: url(./assets/svg/rss.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
 }
 .section-item a {
     color: #829985;
@@ -164,11 +163,8 @@ html {
     top: 8px;
     left: 0px;
     width: 10px;
-    height: 10px; 
-    
+    height: 10px;   
   }
-  
-  
   .section {
     width: 50%;
   }
